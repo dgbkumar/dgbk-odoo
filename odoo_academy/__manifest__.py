@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': 'odoo_academy',
+    'name': 'odoo academy',
     'summary': """Academy app to manage Training""",
 
     'description': """
